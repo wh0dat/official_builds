@@ -1,0 +1,15 @@
+===========================
+AospExtended v6.7 Changelog
+===========================
+
+Note: NON Gapps build. You need to flash gapps separately. CLEAN FLASH ONLY
+
+* Use SCHED FIFO to smooth UI
+* Enabled Manual Subprovisioning 
+* Compiled with SDCLANG 6.0.2
+* Fixed Microphone in Camera by adding "fast input"
+* LineageActions -> MotoActions
+* Dropped GPS Slim Daemon
+* SDCard Accessible without removing Battery
+* DocumentsUI Enable SDCard by default
+* Set proper fingerprint location
